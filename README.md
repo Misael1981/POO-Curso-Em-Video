@@ -14,6 +14,8 @@
 
 - ### [O que é um objeto?](./Material-Estudo/Objetos/objetos.md)
 
+- ### [O que é Visibilidade em um Objeto?](./Material-Estudo/Visibilidade/visibilidade.md)
+
 <h2> 📞 Contato</h2>
 <div> 
   <a href="https://instagram.com/misaelvborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
