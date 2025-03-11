@@ -16,6 +16,10 @@
 
 - ### [O que é Visibilidade em um Objeto?](./Material-Estudo/Visibilidade/visibilidade.md)
 
+  - ### [O que é UML?](./Material-Estudo/Visibilidade/uml.md)
+
+- ### [Métodos Especiais em POO: Getters, Setters e Construtores](./Material-Estudo/Metodos-Especiais/metodosEspeciais.md)
+
 <h2> 📞 Contato</h2>
 <div> 
   <a href="https://instagram.com/misaelvborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
